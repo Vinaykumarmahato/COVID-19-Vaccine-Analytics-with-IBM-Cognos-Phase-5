@@ -1,7 +1,7 @@
 # COVID-19-Vaccine-Analytics-with-IBM-Cognos-Phase-5
-📊 This project represents a comprehensive analysis of the current COVID-19 situation in India compared to the global scenario, along with predictive insights generated using Machine Learning techniques.
+## 📊 This project represents a comprehensive analysis of the current COVID-19 situation in India compared to the global scenario, along with predictive insights generated using Machine Learning techniques.
 
-🌐 You can access the full project and its details on our GitHub Repository. For a visual glimpse, here's a snapshot:
+### 🌐 You can access the full project and its details on our GitHub Repository. For a visual glimpse, here's a snapshot:
 <a href="https://github.com/ADVindiancoder/COVID-19-Vaccine-Analytics-with-IBM-Cognos-Phase-5"><img src="https://www.llanhealthcare.co.uk/wp-content/uploads/coronavirus-4914026_1920.jpg"></a>
 
 # Table of Contents:
